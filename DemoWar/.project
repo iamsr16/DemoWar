@@ -28,4 +28,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/demowar.war</name>
+			<type>1</type>
+			<location>/home/shreya/apache/demowar.war</location>
+		</link>
+	</linkedResources>
 </projectDescription>
